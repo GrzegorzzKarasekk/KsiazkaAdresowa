@@ -3,3 +3,4 @@
 3|Olgierd|Jarosz|333 222 111|oj@gmail.com|Bajkowo 3, 00-000 Bajkolandia
 4|Macko|Bogdan|333 222 111|mb@gmail.com|Bajkowo 4, 00-000 Bajkolandia|
 5|Czeslaw |Milosz|33 222 111|cm@gmail.com|Bajkowo 5, 00-000 Bajkolandia|
+6|Czeslaw |Milosz|33 222 111|cm@gmail.com|Bajkowo 5, 00-000 Bajkolandia|
