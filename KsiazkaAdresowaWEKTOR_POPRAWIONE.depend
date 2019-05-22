@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556568734 source:c:\users\greegooo\documents\codeblocks\ksiazkaadresowawektor_poprawione\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstdio>
+

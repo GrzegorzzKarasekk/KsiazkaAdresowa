@@ -1,0 +1,5 @@
+1|Janko|Muzykant|333 222 111|jm@gmail.com|Bajkowo 1, 00-000 Bajkolandia|
+2|Jacek|Soplica|333 222 111|js@gmail.com|Bajkowo 2, 00-000 Bajkolandia|
+3|Olgierd|Jarosz|333 222 111|oj@gmail.com|Bajkowo 3, 00-000 Bajkolandia
+4|Macko|Bogdan|333 222 111|mb@gmail.com|Bajkowo 4, 00-000 Bajkolandia|
+5|Czeslaw |Milosz|33 222 111|cm@gmail.com|Bajkowo 5, 00-000 Bajkolandia|
