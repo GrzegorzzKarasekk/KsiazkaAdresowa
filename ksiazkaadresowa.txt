@@ -13,3 +13,4 @@
 13|Karol|Krety|333 222 111|kk@gmail.com|Bajkowa 13, 00-000 Bajkolandia|
 14|Radosˆaw|Andrzej|333 222 111|ra@gmail.com|Bajkowa 14, 00-000 Bajkolandia|
 15|Janek|Ziobro|333 222 111|jz@gmail.com|Bajkowa 15, 00-000 Bajkolandia|
+16|Franek|Maniek|333 222 111|fm@gmail.com|Bajkowa 16, 00-000 Bajkolandia|
